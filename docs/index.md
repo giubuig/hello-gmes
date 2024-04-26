@@ -158,7 +158,7 @@ In this collection of notebooks, we examine how array of institutional responses
 
 #### 1. Replicating Hébert-Dufresne et al. 2022
 
-A group-based approach to model behavior and institution co-evolution
+A group-based approach to model the co-evolution of some positive behavior (e.g., cooperation) and institutions aimed at fostering that behavior.
 
 #### 2. Call for action
 
